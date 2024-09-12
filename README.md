@@ -1,0 +1,1 @@
+This is a simple animal trading card that was created with HTML and CSS for a Udacity project. Once all files are downloaded to the same location, opening the html file will produce an ostrich trading card.
